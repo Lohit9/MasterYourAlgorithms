@@ -17,3 +17,5 @@ QUESTIONS
 
 3. **Zip function**: You have 2 arrays of equal length, you need to merge the corresponding elements of the array into one array and return an array of arrays at the end. Conside the example
 of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
+
+4. **Array of Strings in C**: C program that contains a varied list of functions, that use dynamic memory to handle an array of strings in C. 
