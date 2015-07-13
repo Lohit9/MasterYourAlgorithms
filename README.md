@@ -19,3 +19,6 @@ QUESTIONS
 of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 4. **Array of Strings in C**: C program that contains a varied list of functions, that use dynamic memory to handle an array of strings in C. Sorting function added.
+
+5. **Array representation of a binary tree**: C program that represents a binary tree using an array.
+
