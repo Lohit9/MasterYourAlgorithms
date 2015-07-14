@@ -1,11 +1,5 @@
 #include "aos.h"
 
-/**
- [Your Name] (########)
- CS136 Spring 2015
- Assignment 8, Problem 4
- File: aos.c
-**/
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -87,12 +81,12 @@ int my_strcmp(char *a, char *b) {
 void aos_sort(struct aos *a) {
     assert(a != NULL);
     int len = 0;
-    while(len < a->max && a->strings[len] != NULL) len++;
+    //while(len < a->max && a->strings[len] != NULL) len++;--> this is redundant
     bool swapped = true;
     while(swapped) {
         swapped = false;
-        for(int i = 0; i < len; i++) {
-            for(int j = i+1; j < len; j++) {
+        for(int i = 0; i < a->max; i++) {
+            for(int j = i+1; j < a->max; j++) {
                 if(my_strcmp(a->strings[i], a->strings[j]) == 1) {
                     char *temp = a->strings[i];
                     a->strings[i] = a->strings[j];
@@ -104,8 +98,8 @@ void aos_sort(struct aos *a) {
     }
     return;
 }
-
-/*int main()
+// Below are a few tests, feels free to add your own, these are not rigourous!
+int main()
 {
 struct aos *a = create_aos(10);
 assert(aos_get(a,5) == NULL);
@@ -121,4 +115,4 @@ printf("%s\n",aos_get(a,5));
 assert(strcmp(aos_get(a,0),"apple") == 0);
 assert(strcmp(aos_get(a,1),"zebra") == 0);
 destroy_aos(a);
-}*/
+}
