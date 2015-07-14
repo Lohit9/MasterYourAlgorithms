@@ -1,5 +1,4 @@
 #include "aos.h"
-
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -98,7 +97,7 @@ void aos_sort(struct aos *a) {
     }
     return;
 }
-// Below are a few tests, feels free to add your own, these are not rigourous!
+// Below are a few tests, these are not rigourous!
 int main()
 {
 struct aos *a = create_aos(10);
