@@ -16,7 +16,11 @@ Time Complexity: O((n-k)*k).
 
 If we want the kth Largest only then sort the array and get kth largest then complexity O((n-k)*k + klogk)
 
-Method 3 (Using quick sort)*/
+Method 3 (Using quick sort)
+
+Method 4: This question can be also solved using an heap, I haven't learnt heaps-> the data structure yet. Will be updated once I leasrn heaps
+
+*/
 
 
 //------------------------------------------------------------------------------------------------------------------
