@@ -24,3 +24,5 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 6. **Kth minimum element**: C Program to find the kth minimum element in array, quite common in interviews(I was asked this in the Zynga interview)
 
+7. **Binary tree to List**: C program to convert a binary tree to a list. 
+
