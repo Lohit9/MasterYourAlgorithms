@@ -3,8 +3,6 @@
 Enter a description for this file.
 */
 
-// You are not allowed to change the structure definition
-
 // The node type from which both the tree and list are built 
 struct node {
     int val;
