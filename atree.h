@@ -1,6 +1,5 @@
 #include <stdbool.h>
 #include <limits.h>
-// a module for storing a BST in an array
 
 extern const int EMPTY;
 // in your atree.c, define:
