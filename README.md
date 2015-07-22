@@ -26,6 +26,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 7. **Binary tree to List**: C program to convert a binary tree to a list. 
 
+8. **Binary Arithmetic Using Binary trees**: C program that uses binary trees to perform BODMAS calcualations 
+
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview. The code has not been added yet, will add them as soon as possible.
