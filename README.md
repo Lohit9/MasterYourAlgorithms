@@ -22,7 +22,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 5. **Array representation of a binary tree**: C program that represents a binary tree using an array. Partial implementation of serealization and deserealization.
 
-6. **Kth minimum element**: C Program to find the kth minimum element in array, quite common in interviews(I was asked this in the Zynga interview)
+6. **Kth minimum element**: C Program to find the kth minimum element in array, quite common in interviews(I was asked this in the Zynga interview). (2 methods, third will be posted soon)
 
 7. **Binary tree to List**: C program to convert a binary tree to a list. 
 
