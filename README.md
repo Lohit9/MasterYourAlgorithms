@@ -28,6 +28,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 8. **Binary Arithmetic Using Binary trees**: C program that uses binary trees to perform BODMAS calcualations 
 
+9. **Amortized analysis and Dynamic Array**: C program that implements and explains amortized(average) analysis and simple intro to dynamc arrays
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview. 
+
