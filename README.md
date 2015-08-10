@@ -32,6 +32,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 10. **Linked List**: The interface file contains various function implemented using and for linked list. Great excericise to get familiar with them. 
 
+11. **Binary Search Tree**: Implementation and various fuctions for operations such as traversal, sorting, searching, etc in bst's.
+
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview. 
