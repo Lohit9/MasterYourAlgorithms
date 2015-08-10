@@ -34,6 +34,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 11. **Binary Search Tree**: Implementation and various fuctions for operations such as traversal, sorting, searching, etc in bst's.
 
+12. **Max-Min Stack**: Implementation of stack that stores the maximum and minimum elements (can be retrieved in O(1) time), functions include pop, push, max , min, length, etc.
+
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview. 
