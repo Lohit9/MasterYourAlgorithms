@@ -38,6 +38,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 13. **Count/Sequence ADT**: Implementation for storing the count (number of occurrences of an integer within a sequence and other operations related to it.
 
+14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. Augmentation strategies used.
+
+
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview. 
