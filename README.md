@@ -1,5 +1,5 @@
 # Algorithms
-Major algorithms and problems implemented in C++ and C
+Major/Interesting algorithms and problems implemented in C++ and C
 
 SOURCES and CREDITS
 
