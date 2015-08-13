@@ -38,7 +38,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 13. **Count/Sequence ADT**: Implementation for storing the count (number of occurrences of an integer within a sequence and other operations related to it.
 
-14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. Augmentation strategies used.
+14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. 
 
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
 
