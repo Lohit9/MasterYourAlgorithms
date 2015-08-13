@@ -36,7 +36,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 12. **Max-Min Stack**: Implementation of stack that stores the maximum and minimum elements (can be retrieved in O(1) time), functions include pop, push, max , min, length, etc.
 
-13. **Count/Sequence ADT**: Implementation for storing the count (number of occurrences of an integer within a sequence and other operations related to it.
+13. **Count/Sequence ADT**: Implementation for storing the count (number of occurrences of an integer within a sequence and other operations related to it. Implemented using an dynamica array and using a binary search tree.
 
 14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. 
 
