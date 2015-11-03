@@ -1,6 +1,10 @@
 # Algorithms
 Major/Interesting algorithms and problems implemented in C++ and C
 
+CRACKING THE CODING INTERVIEW 
+
+*GOAL : Solve atleast 3 programming questions from the book everyday 
+---------------------------------------------------------------------------------------------------------------------
 SOURCES and CREDITS
 
 I have included a few problems from Karan's megalist of projects, other sources will be updated as I work through them.
@@ -43,8 +47,6 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
 
 ---------------------------------------------------------------------------------------------------------------------
-
-
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview
