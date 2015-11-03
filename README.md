@@ -1,9 +1,9 @@
 # Algorithms
 Major/Interesting algorithms and problems implemented in C++ and C
 
-CRACKING THE CODING INTERVIEW 
+##CRACKING THE CODING INTERVIEW 
 
-*GOAL : Solve atleast 3 programming questions from the book everyday 
+**GOAL** : Solve atleast 3 programming questions from the book everyday 
 ---------------------------------------------------------------------------------------------------------------------
 SOURCES and CREDITS
 
