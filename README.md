@@ -38,6 +38,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. 
 
+15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
