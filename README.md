@@ -1,19 +1,13 @@
-# Algorithms
-Major/Interesting algorithms and problems implemented in C++ and C
+# AlgoMagic 
+Algorithms implemented in C++ and C
 
-##CRACKING THE CODING INTERVIEW 
+###Questions From 'CRACKING THE CODING INTERVIEW' 
 
 **GOAL** : Solve atleast 3 programming questions from the book everyday 
+
 ---------------------------------------------------------------------------------------------------------------------
-SOURCES and CREDITS
 
-I have included a few problems from Karan's megalist of projects, other sources will be updated as I work through them.
-
-SOLUTIONS
-
-The solutions are available and comments are included wherever necessary, please feel free to add new projects or remove existing ones.
-
-GENERAL QUESTIONS
+###GENERAL QUESTIONS
 
 1. Program to which gives the next number in the **Fibonacci sequence** when called, starts off with 1(ignore 0).Ex: 112358..
 
@@ -45,8 +39,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. 
 
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
-
 ---------------------------------------------------------------------------------------------------------------------
+###Interview Questions
+
 Upcoming: Given a Binary Search Tree with integers at every node and   an integer k, write code that decides whether or not there exists two nodes a and b such that a+b=k
 
 The above question was asked in Zenefits interview
