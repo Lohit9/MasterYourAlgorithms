@@ -7,7 +7,7 @@ Algorithms implemented in C++ and C
 
 ---------------------------------------------------------------------------------------------------------------------
 
-###GENERAL QUESTIONS
+###GENERAL-QUESTIONS
 
 1. Program to which gives the next number in the **Fibonacci sequence** when called, starts off with 1(ignore 0).Ex: 112358..
 
