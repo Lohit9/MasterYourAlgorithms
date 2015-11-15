@@ -3,8 +3,6 @@ Algorithms implemented in C++ and C
 
 ###Questions From 'CRACKING THE CODING INTERVIEW' 
 
-**GOAL** : Solve atleast 3 programming questions from the book everyday 
-
 ---------------------------------------------------------------------------------------------------------------------
 
 ###GENERAL-QUESTIONS
