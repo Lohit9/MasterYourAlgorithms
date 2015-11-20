@@ -1,7 +1,7 @@
 # AlgoMagic 
-Algorithms implemented in C++ and C
+Algorithms implemented in C++
 
-###Questions From 'CRACKING THE CODING INTERVIEW' 
+###Questions From 'Cracking the Coding Interview' 
 
 ---------------------------------------------------------------------------------------------------------------------
 
