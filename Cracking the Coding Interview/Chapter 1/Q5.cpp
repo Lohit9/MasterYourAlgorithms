@@ -2,31 +2,24 @@
 #include <string>
 using namespace std;
 
-void CompressString(string str)
-{
-   int count = 0;
-   int len = str.length();
-   char c = str[0];
-   char s[] = "AAAAAAA";
-   int lent = 0;
-   for (int i = 0; i<len ; i++)
-   {
-      cout<< "value of c is: " << c << "  "<< str[i]<< endl;
-      if (c == str[i])
-      {
-        count++;
-        continue;
-      }
-      s[lent]=count;
-      lent++;
-      s[lent]=count;
-      c = str[i];
-      count = 1;
-   }
-   cout << s << endl ;
-   /*int lenafter = compress.length();
-   if (len < lenafter) return str;
-   return compress;*/
+string CompressString(string s){
+	int n=s.size();int i=1,count=1;char prev=s[0];
+	if(n==0)return NULL;
+	string res="";
+	while(i<n){
+
+		if(s[i]==s[i-1])count++;
+		else{
+			res+=prev;
+			res+=char(count+48);
+			count=1;prev=s[i];
+		}
+		i++;
+	}
+	res+=prev;
+	res+=char(count+48);
+	if(res.size()>s.size())return s;
+	return res;
 }
 
 int main()
@@ -34,7 +27,7 @@ int main()
   string str;
   cout << "Please enter the string" << endl;
   cin >> str ;
-  CompressString(str);
-  cout << "The compressed string has been printed" << endl;
+  string result = CompressString(str);
+  cout << "The compressed string is: " << result << endl;
   return 0;
 }
