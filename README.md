@@ -1,5 +1,5 @@
 # AlgoMagic 
-Algorithms implemented in C++ test
+Algorithms implemented in C++ 
 
 ###Questions From 'Cracking the Coding Interview' 
 
