@@ -1,11 +1,15 @@
 # AlgoMagic 
 Algorithms implemented in C++ 
 
-###Questions From 'Cracking the Coding Interview' 
+### Data Structures Questions and Cracking the Coding interview questions
+
+1. String Manipulation
+   - CTCI chapter 1 
+2. Linked Lists
 
 ---------------------------------------------------------------------------------------------------------------------
 
-###GENERAL-QUESTIONS
+###GENERAL-QUESTIONS / RANDOM
 
 1. Program to which gives the next number in the **Fibonacci sequence** when called, starts off with 1(ignore 0).Ex: 112358..
 
@@ -37,6 +41,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 14. **Queue ADT**: Implementation of Queue and various operations list add-front, remove-back, etc. 
 
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
+
+16. **Towers of Hanoi Puzzle**: Implementation of the recursive algorithm solution to the Hanoi puzzle. 
 
 ---------------------------------------------------------------------------------------------------------------------
 
