@@ -42,7 +42,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
 
-16. **Towers of Hanoi Puzzle**: Implementation of the recursive algorithm solution to the Hanoi puzzle. 
+16. **Towers of Hanoi Puzzle**: Implementation of the recursive algorithm solution to the [Towers of Hanoi puzzle] (https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
 ---------------------------------------------------------------------------------------------------------------------
 
