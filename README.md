@@ -1,5 +1,5 @@
 # AlgoMagic 
-Algorithms implemented in C++ 
+Algorithms implemented in C & C++ 
 
 ### Data Structures Questions and Cracking the Coding interview questions
 
