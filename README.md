@@ -6,6 +6,7 @@ Algorithms implemented in C & C++
 1. String Manipulation
    - CTCI chapter 1 
 2. Linked Lists
+   - Insertion
 
 ---------------------------------------------------------------------------------------------------------------------
 
