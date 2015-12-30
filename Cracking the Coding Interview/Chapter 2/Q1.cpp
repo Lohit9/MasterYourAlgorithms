@@ -1,33 +1,44 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
-struct Node{
-  int data;
-  Node *next;
+struct llnode{
+    int data;
+    struct llnode *next;
 };
 
-void deleteDuplicates(Node *node){
-
-  Node *current = node;
-  Node *runner = current;
-
-  while (current->next != NULL){
-    while(runner->next != NULL){
-      if(runner->next->data== current->data){
-        //code to delete the duplicate node
-        runner->next = runner->next->next;
-      }
-      else{
-        runner=runner->next;
-      }
+//O(n) solution using an array buffer, the book's solution uses a hash table as a buffer
+void removeDuplicates(struct llnode *llist){
+    int integers[10] = {0};
+    struct llnode *current = llist;
+    struct llnode *prev;
+    while(current != NULL){
+        integers[current->data]++;
+        if(integers[current->data] > 1){
+            prev->next = current->next;
+            current = prev;
+        }
+        prev = current;
+        current = current->next;
     }
-    current = current->next;
-  }
-
 }
 
-int main()
-{
-  return 0;
+//O(n^2) solution without using a buffer
+void removeDuplicatesWithoutBuffer(struct llnode *llist){
+    struct llnode *current = llist;
+    struct llnode *runner = llist;
+    while(current != NULL){
+        while(runner != NULL){
+            if (runner->data == current->data){
+                runner->next = runner->next->next;
+            }
+            else{
+                runner = runner->next;
+            }
+        }
+        current = current->next;
+    }
+}
+
+int main(){
+    return 0;
 }
