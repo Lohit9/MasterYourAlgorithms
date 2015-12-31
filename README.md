@@ -1,12 +1,16 @@
 # AlgoMagic 
 Algorithms implemented in C & C++ 
 
+:white_check_mark: Completed
+:o: In progress
+
 ### Data Structures Questions and Cracking the Coding interview questions
 
 1. String Manipulation
-   - CTCI chapter 1 
+   - CTCI chapter 1 :white_check_mark:
 2. Linked Lists
-   - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists)
+   - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists) :o:
+   - CTCI chapter 2 :o:
 
 ---------------------------------------------------------------------------------------------------------------------
 
