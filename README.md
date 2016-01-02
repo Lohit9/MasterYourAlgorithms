@@ -1,5 +1,4 @@
-# AlgoMagic 
-Algorithms implemented in C & C++ 
+#Algorithms implemented in C & C++ 
 
 :white_check_mark: Completed
 :o: In progress
