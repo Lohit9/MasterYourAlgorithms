@@ -8,7 +8,7 @@
 1. String Manipulation
    - CTCI chapter 1 :white_check_mark:
 2. Linked Lists
-   - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists) :o:
+   - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists) :white_check_mark:
    - CTCI chapter 2 :o:
 
 ---------------------------------------------------------------------------------------------------------------------
