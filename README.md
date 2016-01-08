@@ -11,7 +11,6 @@
    - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists) :white_check_mark:
    - CTCI chapter 2 :o:
 3. Stacks & Queues
-   - CTCI chapter 3
 
 ---------------------------------------------------------------------------------------------------------------------
 
