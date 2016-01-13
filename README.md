@@ -53,6 +53,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 17. **Level Order Traversal**: Implement the level order traversal of a binary tree and state the time complexity
 
+18. **Reverse in groups**: Implement a program to reverse a linked list in groups of size k and state time complexity  
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
