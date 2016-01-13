@@ -13,7 +13,6 @@
 3. Binary Trees
    - [Challenges from HackerRank] :o:
    - CTCI chapter 4
-   - Other :o:
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -51,6 +50,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 15. **Dictionary ADT**: Implementation of Dictionary adt and various operations like lookup, insert, traversal etc.
 
 16. **Towers of Hanoi Puzzle**: Implementation of the recursive algorithm solution to the [Towers of Hanoi puzzle] (https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+
+17. **Level Order Traversal**: Implement the level order traversal of a binary tree and state the time complexity
 
 ---------------------------------------------------------------------------------------------------------------------
 
