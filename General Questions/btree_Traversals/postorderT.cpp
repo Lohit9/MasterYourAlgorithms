@@ -11,18 +11,30 @@ void preorderRecursive (struct Node *btree){
 
 /* 2: Iterative approach */
 
-void postorderIterative (struct Node *root){
-  struct Node *temp =  root;
-  struct Stack *s = createStack();
 
-  while(1){
-    while(temp){
-      push(&s,temp);
-      temp = temp->left;
+void preorderIterative (struct Node *root){
+    struct Stack* s1 = createStack();
+    struct Stack* s2 = createStack();
+    struct Node* temp;
+    
+    push(&s1,root);
+    
+    while(s1){
+        temp = pop(s1);
+        push(&s2,temp);
+        if(root->left) push(&s1,root->left);
+        if(root->right) push(&s2,root->right);
     }
-    temp = pop(&s);
-    temp= temp->right;
-    cout << temp->data << endl;
-  }
-
+    
+    while(s2){
+        temp= pop(s2);
+        cout << temp->data << endl;
+    }
 }
+
+/*
+ 
+ Time Complexity: O(n) ->even for the recursive solution 
+ Space Complexity: O(n) due to the use of stack
+
+*/
