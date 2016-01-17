@@ -53,7 +53,15 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 17. **Level Order Traversal**: Implement the level order traversal of a binary tree and state the time complexity
 
-18. **Reverse in groups**: Implement a program to reverse a linked list in groups of size k and state time complexity  
+18. **Reverse in groups**: Implement a program to reverse a linked list in groups of size k and state time complexity 
+
+19. **Is Binary Search tree** : Implement a program to check whether a give tree is a binary search tree or not
+
+20. **Tree Traversals** : Implement programs to demostrate- post-order, pre-order, inorder traversals. Implement both the recursive and iterative versions
+
+21. **Same tree** : Implement a program to check whether 2 binary trees are the same. They need to have the same values and structure.
+
+22. **Maximum element in tree**: Implement a program to find out the maximum element in a binary tree
 
 ---------------------------------------------------------------------------------------------------------------------
 
