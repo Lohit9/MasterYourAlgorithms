@@ -11,7 +11,7 @@
    - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/linked-lists) :white_check_mark:
    - CTCI chapter 2 :white_check_mark:
 3. Binary Trees
-   - [Challenges from HackerRank] :o:
+   - [Challenges from HackerRank] :white_check_mark:
    - CTCI chapter 4
 
 ---------------------------------------------------------------------------------------------------------------------
