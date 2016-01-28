@@ -64,6 +64,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 22. **Maximum element in tree**: Implement a program to find out the maximum element in a binary tree
 
 23. **Pair of ints**
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
