@@ -65,6 +65,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 23. **Pair of ints**
 
+24. **All Palindromes of a string**: Given a string list all the possible palindromes using it(if they exist)
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
