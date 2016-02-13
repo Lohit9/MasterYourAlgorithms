@@ -16,7 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-###GENERAL-QUESTIONS / RANDOM
+###GENERAL-QUESTIONS / INTEVRVIEW-PRACTICE
 
 1. Program to which gives the next number in the **Fibonacci sequence** when called, starts off with 1(ignore 0).Ex: 112358
 
@@ -66,6 +66,14 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 23. **Pair of ints**
 
 24. **Permutations of a string**: Given a string list all the possible permutations of a string sorted in lexicographical order.
+
+25. **Different Number**: Given an array arr of n unique non-negative integers, how can you most efficiently find a non-negative integer that is not in the array?
+
+26. **Alternating Characters**: Find the minimum number of character deletions required for two given strings to be anagrams(check program header for sample input)
+
+27. **Hash Table**: Implement a hash table using array and linked lists
+
+28. **Height of tree**: Program to find the height or max depth of a binary tree
 
 ---------------------------------------------------------------------------------------------------------------------
 
