@@ -75,6 +75,12 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 28. **Height of tree**: Program to find the height or max depth of a binary tree
 
+29. **Remove spaces in a string**: Given an string output a string with all the spaces removed
+
+30. **Reverse string-1**: Given a string reverse it word by word 
+
+31. **Reverse string-2**: Given a string reverse it completely, character by character
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
