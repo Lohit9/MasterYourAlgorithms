@@ -10,7 +10,25 @@ IDeserve string problem-2
 using namespace std;
 
 string reverseString(string str){
+  string word;
+  string revword;
   string result;
+  str = str + " ";
+  for(int i=0 ;i< str.length(); i++){
+    if(str[i] != ' '){
+    word += str[i];
+  }
+  else{
+    for(int i =0 ;i<word.length() ; i++){
+      revword = word[i]+revword;
+    }
+    revword += " ";
+    result = revword + result;
+    word = "";
+    revword = "";
+  }
+
+  }
   return result;
 }
 
