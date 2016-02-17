@@ -83,7 +83,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 32. **Posfix Expression evaluation**: Evaluate expressions given in reverse polish notation, input is an array of strings
 
+33. **Balanced Parentheses**: Verify whether string has balanced parentheses. note: this questions assumes only round-bracket
 
+34. **Group Anagrams**: Group all anagrams together from a given array of strings
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
