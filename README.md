@@ -81,6 +81,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 31. **Reverse string-2**: Given a string reverse it completely, character by character
 
+32. **Posfix Expression evaluation**: Evaluate expressions given in reverse polish notation, input is an array of strings
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
