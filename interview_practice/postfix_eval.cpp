@@ -16,10 +16,14 @@
 #include <string>
 #include <stack>
 using namespace std;
-
+ 
 int eval(string *exp, int length){
    int result=0;
    stack<string>mystack;
+   if(length == 1){
+     result = stoi(exp[0]);
+     return result;
+   }
    for(int i=0; i<length;i++){
      if(((exp[i] != "+")&&(exp[i] != "-"))&&((exp[i] != "*")&&(exp[i] != "/"))){
        mystack.push(exp[i]);
