@@ -86,6 +86,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 33. **Balanced Parentheses**: Verify whether string has balanced parentheses. note: this questions assumes only round-bracket
 
 34. **Group Anagrams**: Group all anagrams together from a given array of strings
+
+35. **Infix Expression evaluation**: Asked in google interview, similar to postfix eval hence solution not provided.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
