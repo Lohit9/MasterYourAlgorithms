@@ -89,6 +89,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 35. **Infix Expression evaluation**: Asked in google interview, similar to postfix eval hence solution not provided.
 
+36. **First non-repeating character**: Find the first non repeating character in string.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
