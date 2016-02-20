@@ -93,6 +93,14 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 37. **Word Break Problem**: Given a dictionary of words and a string of characters, find if the string of characters can be broken into individual valid words from the dictionary.
 
+38. **String Rotation check**: Check given 2 string and a isSubstring method whether one is a rotation of another.
+
+39.**String Compression**: Given a string perform basic string compression.
+
+40.**Replace Spaces**: Given a string replace spaces with a certain string
+
+41.**Remove duplicates**: Remove duplicates from linked list (solution using hashMap)
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
