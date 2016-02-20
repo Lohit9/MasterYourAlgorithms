@@ -91,6 +91,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 36. **First non-repeating character**: Find the first non repeating character in string.
 
+37. **Word Break Problem**: Given a dictionary of words and a string of characters, find if the string of characters can be broken into individual valid words from the dictionary.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
