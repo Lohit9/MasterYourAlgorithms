@@ -65,7 +65,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 23. **Pair of ints**
 
-24. **Permutations of a string**: Given a string list all the possible permutations of a string sorted in lexicographical order.
+24. **Permutations of a string**: Given a string list all the possible permutations of a string
 
 25. **Different Number**: Given an array arr of n unique non-negative integers, how can you most efficiently find a non-negative integer that is not in the array?
 
