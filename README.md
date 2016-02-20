@@ -65,7 +65,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 23. **Pair of ints**
 
-24. **Permutations of a string**: Given a string list all the possible permutations of a string sorted in lexicographical order.
+24. **Permutations of a string**: Given a string list all the possible permutations of a string
 
 25. **Different Number**: Given an array arr of n unique non-negative integers, how can you most efficiently find a non-negative integer that is not in the array?
 
@@ -86,6 +86,11 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 33. **Balanced Parentheses**: Verify whether string has balanced parentheses. note: this questions assumes only round-bracket
 
 34. **Group Anagrams**: Group all anagrams together from a given array of strings
+
+35. **Infix Expression evaluation**: Asked in google interview, similar to postfix eval hence solution not provided.
+
+36. **First non-repeating character**: Find the first non repeating character in string.
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
