@@ -111,6 +111,10 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 46. **Delete Node**: Program to delete node from a linked list given the data value of the node to be deleted
 
+47. **Insertion sort**: Given an integer array sort using insertion sort technique
+
+48. **Merge sort**: Given an integer array sort using merge sort technique
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
