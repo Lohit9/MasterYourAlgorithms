@@ -107,6 +107,8 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 44. **Rename letter**: Given a string of letters, implement method that outputs string of 1's and 0's of the same size
 
+45. **Array to Linked List**: Make a linked list out of an array
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
