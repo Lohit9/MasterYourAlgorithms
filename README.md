@@ -109,6 +109,9 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 45. **Array to Linked List**: Make a linked list out of an array
 
+46. **Delete Node**: Program to delete node from a linked list given the data value of the node to be deleted
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
