@@ -1,4 +1,5 @@
 /*
+Asked in google interview
  Make a linked list out of an array
 */
 
@@ -6,39 +7,29 @@
 #include <string>
 using namespace std;
 
-struct node{
+struct llnode{
   int data;
-  node *next;
+  llnode *next;
 };
-
-
-node* to_linkedList(node* input, int data[], int len){
-  node *temp = input;
-  temp->next = input->next;
-  temp->data = data[0];
- for(int i =1 ;i<=len;i++){
-   if(input == NULL){
-     input = new node;
-     input->next = NULL;
-     input->data = data[i];
-     cout << input->data << endl;
-   }
-    else input = input->next;
- }
-
-  return temp;
-}
 
 int main(){
   int arr[] = {1,2,3,4,5,6,7};
-  node *llnode = new node;
-  llnode->next = NULL;
   int len = sizeof(arr)/sizeof(arr[0]);
-  node* result = to_linkedList(llnode,arr,len);
-  while(result->next){
-    cout << result->data << endl;
-    result = result->next;
-    }
-
+  llnode *head = new llnode;
+  head->data = arr[0];
+  head->next = NULL;
+  llnode *temp = NULL;
+  head->next = temp;
+  for(int i=1;i<len;i++){
+    temp = new llnode;
+    temp->data = arr[i];
+    temp->next = NULL;
+    temp = temp->next;
+  }
+  while(head != NULL){
+    cout << head->data << endl;
+    head = head->next;
+  }
+  delete head;
   return 0;
 }

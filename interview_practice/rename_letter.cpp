@@ -1,4 +1,5 @@
 /*
+Asked in google interview
 Given a string of letters, implement method that outputs string of 1's and 0's of the same size corresponding to if a
 selected letter is in that position in the input string.
 */

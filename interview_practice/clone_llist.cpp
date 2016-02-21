@@ -1,4 +1,5 @@
 /*
+Asked in google interview
 Clone a linked list with next and random pointer
 */
 
