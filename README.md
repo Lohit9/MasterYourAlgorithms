@@ -95,11 +95,11 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 38. **String Rotation check**: Check given 2 string and a isSubstring method whether one is a rotation of another.
 
-39.**String Compression**: Given a string perform basic string compression.
+39. **String Compression**: Given a string perform basic string compression.
 
-40.**Replace Spaces**: Given a string replace spaces with a certain string
+40. **Replace Spaces**: Given a string replace spaces with a certain string
 
-41.**Remove duplicates**: Remove duplicates from linked list (solution using hashMap)
+41. **Remove duplicates**: Remove duplicates from linked list (solution using hashMap)
 
 42. **Is palindrome**: Verifiy whether string is a palindrome.
 
