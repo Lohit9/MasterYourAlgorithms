@@ -101,6 +101,12 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 41.**Remove duplicates**: Remove duplicates from linked list (solution using hashMap)
 
+42. **Is palindrome**: Verifiy whether string is a palindrome.
+
+43. **Remove extra spaces**: Given a string remove unecessary spaces
+
+44. **Rename letter**: Given a string of letters, implement method that outputs string of 1's and 0's of the same size
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
