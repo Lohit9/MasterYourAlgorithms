@@ -115,7 +115,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 48. **Merge sort**: Given an integer array sort using merge sort technique
 
-49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting
+49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google,Microsoft] 
 
 
 ---------------------------------------------------------------------------------------------------------------------
