@@ -1,7 +1,7 @@
 #Algorithms implemented in C/C++ 
 
 :white_check_mark: Completed
-:o: In Progress
+:o: In progress
 
 ### Data Structures Questions and Cracking the Coding interview questions
 
