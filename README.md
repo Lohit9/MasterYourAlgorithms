@@ -37,7 +37,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 9. **Amortized analysis and Dynamic Array**: C program that implements and explains amortized(average) analysis and simple intro to dynamc arrays
 
-10. **Linked List**: The interface file contains various function implemented using and for linked list. Great excericise to get familiar with them. 
+10. **Linked List**: The interface file contains various function implemented using and for linked list. Great excercise to get familiar with them. 
 
 11. **Binary Search Tree**: Implementation and various fuctions for operations such as traversal, sorting, searching, etc in bst's.
 
@@ -115,7 +115,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 48. **Merge sort**: Given an integer array sort using merge sort technique
 
-49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google,Microsoft] 
+49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google, Microsoft] 
 
 
 ---------------------------------------------------------------------------------------------------------------------
