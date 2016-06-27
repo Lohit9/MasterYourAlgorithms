@@ -63,7 +63,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 22. **Maximum element in tree**: Implement a program to find out the maximum element in a binary tree
 
-23. **Pair of ints**::
+23. **Pair of ints** (question can be found on leetcode)
 
 24. **Permutations of a string**: Given a string list all the possible permutations of a string
 
