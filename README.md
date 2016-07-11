@@ -117,7 +117,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google, Microsoft] 
 
-
+50. **Pairs Swap**: Given two arrays of integrs, find a pair of values (one from each array) that you can swap to give the two arrays the same sum.
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
