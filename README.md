@@ -59,7 +59,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 20. **Tree Traversals** : Implement programs to demostrate- post-order, pre-order, inorder traversals. Implement both the recursive and iterative versions
 
-21. **Same tree** : Implement a program to check whether 2 binary trees are the same. They need to have the same values and structure.
+21. **Same tree** : Implement a program to check whether 2 binary trees are the same. They need to have the same values and structure
 
 22. **Maximum element in tree**: Implement a program to find out the maximum element in a binary tree
 
@@ -117,7 +117,7 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 
 49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google, Microsoft] 
 
-50. **Pairs Swap**: Given two arrays of integrs, find a pair of values (one from each array) that you can swap to give the two arrays the same sum, feel free to make trivial assumptions.
+50. **Pairs Swap**: Given two arrays of integrs, find a pair of values (one from each array) that you can swap to give the two arrays the same sum, feel free to make trivial assumptions
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
