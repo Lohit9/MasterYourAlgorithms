@@ -13,6 +13,13 @@
 3. Binary Trees
    - [Challenges from HackerRank] (https://www.hackerrank.com/domains/data-structures/binary-trees) :white_check_mark:
    - CTCI chapter 4
+   - 
+   
+###CRACKING THE CODING INTERVIEW ALGORITMNS
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|377|Combination Sum IV | [C++](./algorithms/cpp/combinationSumIV/combinationSumIV.cpp)|Medium|
 
 ---------------------------------------------------------------------------------------------------------------------
 
