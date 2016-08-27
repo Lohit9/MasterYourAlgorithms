@@ -118,6 +118,10 @@ of array [a,b,c] and [d,e,f] the function should return [[a,d],[b,e],[c,f]].
 49. **Merge sorted arrays**: Given two sorted arrays merge them preserving sorting [Asked by Google, Microsoft] 
 
 50. **Arrays Pairs Swap**: Given two arrays of integrs, find a pair of values (one from each array) that you can swap to give the two arrays the same sum, feel free to make trivial assumptions
+
+51. **Minimum distances**: Given an array find the minimum distance between 2 equal elements in the array. 
+
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Interview Questions
