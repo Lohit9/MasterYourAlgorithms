@@ -32,6 +32,18 @@ void minimumDistance(int *A, int n){
     return;
 }
 
+//Smart solution
+void minimumDistance(int *A, int n){
+  int minValue = INT_MAX;
+  map<int, int> arrayMap; // Index of a element in array and the value would be the number of occureneces
+  for(int i=0; i<n; i++){
+    arrayMap[i] += 1;
+    if (arrayMap[i] == 2){
+
+    }
+  }
+}
+
 int main(){
     int n;
     cin >> n;
