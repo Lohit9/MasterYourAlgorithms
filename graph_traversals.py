@@ -22,13 +22,20 @@ def bfs(graph, start):
     return inorder
 
 
-graph = {'A':set(['B','C']),
-         'B':set(['A','D','E']),
-         'C':set(['A','F']),
-         'D':set(['B']),
-         'E':set(['B','F']),
-         'F':set(['C','E'])
+# graph = {'A':set(['B','C']),
+#          'B':set(['A','D','E']),
+#          'C':set(['A','F']),
+#          'D':set(['B']),
+#          'E':set(['B','F']),
+#          'F':set(['C','E'])
+#          }
+
+graph = {'0':set(['2','3','4']),
+         '1':set(['2','3','4']),
+         '2':set(['0','1']),
+         '3':set(['0','1','4']),
+         '4':set(['0','1','3']),
          }
 
-print dfs(graph, 'A')
-print bfs(graph, 'A')
+print dfs(graph, '0')
+print bfs(graph, '1')
